@@ -1,0 +1,84 @@
+body{
+    margin: 0;
+    background-color: rgb(147, 138, 138);
+}
+
+.banner {
+    background-image: url(IMAGES/\ .jpg);
+    text-align: center;
+    width: 1400px;
+    padding: 150px;
+    background-size: cover;
+    background-position: 80% 52% ;
+    font-size: 40px;
+    text-shadow:2px 2px 5px rgb(245, 146, 146);
+    color: #ffffff;
+}
+
+.iron{
+padding: -10px;
+background-size: cover;
+background-position: center;
+margin: 50px;
+
+
+}
+
+img{
+    width: 550px;
+    height: 370px;
+    box-shadow: 2px 2px 5px rgb(35, 35, 35);
+   
+}
+.grid{
+display: grid;
+grid-template-columns: 1fr 1fr;
+grid-gap: 20px;
+
+
+
+}
+
+h2{
+font-family:'Bebas Neue', cursive ;
+font-style: italic;
+text-align: center;
+color: #ffffff;
+
+}
+
+h4{
+    color: #a20b0b;
+    text-align: left ; height: 200px; 
+    font-family:'Bebas Neue', cursive ;
+    font-style: normal; 
+    font-size: xx-large;
+    margin: 125px;
+    padding-top: -50%;
+}
+
+.align-right {
+    width: 400px;
+    margin: 0 0 0 auto;
+    height: auto;
+
+}
+
+.BW{
+    height: 800px;
+    width: 600px; 
+    box-shadow: 2px 2px 5px 2px rgb(35, 35, 35); 
+    .lined.thick{
+        border:solid 7px #41403E;
+}
+
+.Texte 2{
+    color: #a20b0b;
+    text-align: left ; height: 200px; 
+    font-family:'Bebas Neue', cursive ;
+    font-style: normal; 
+    font-size: xx-large;
+    margin: -600px ;
+    padding: 29px;
+    
+}
